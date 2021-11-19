@@ -3,9 +3,9 @@
 ## Objectives
 
 - Introduce Node Package Manager (npm)
-- Introduce [npm's online platform][npmjs](https://www.npmjs.com/search?q=Online)
+- Introduce [npm's online platform][npmjs]
 - Ensure your environment is configured to use npm
-- 
+- Basic command to use npm
 
 ## Introduction
 
