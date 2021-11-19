@@ -1,13 +1,11 @@
-# npm_story
-
 # Intro to NPM
 
 ## Objectives
 
 - Introduce Node Package Manager (npm)
-- Introduce [npm's online platform][npmjs]
+- Introduce [npm's online platform][npmjs](https://www.npmjs.com/search?q=Online)
 - Ensure your environment is configured to use npm
-- Review important concepts related to package management in JavaScript
+- 
 
 ## Introduction
 
@@ -278,7 +276,7 @@ Character ` ~ or ^ `
 
 `^version`: “Compatible with version”, will update you to all future minor/patch versions, without incrementing the major version. ^2.3.4 will use releases from 2.3.4 to <3.0.0.
 
-(stackoverflow)[https://stackoverflow.com/questions/22343224/whats-the-difference-between-tilde-and-caret-in-package-json]
+[stackoverflow](https://stackoverflow.com/questions/22343224/whats-the-difference-between-tilde-and-caret-in-package-json)
 
 
 ## package.json VS package-lock.json
@@ -287,7 +285,7 @@ Character ` ~ or ^ `
 
 `package.json`: records the minimum version you app needs. If you update the versions of a particular package, the change is not going to be reflected here.
 
-(stackoverflow)[https://stackoverflow.com/questions/45052520/do-i-need-both-package-lock-json-and-package-json]
+[stackoverflow](https://stackoverflow.com/questions/45052520/do-i-need-both-package-lock-json-and-package-json)
 
 
 ## `npm cache verify`
@@ -319,7 +317,7 @@ Example :
 
 ```
 
-(npmjs scripts)[https://docs.npmjs.com/cli/v8/using-npm/scripts/]
+[npmjs scripts](https://docs.npmjs.com/cli/v8/using-npm/scripts/)
 
 ## NPM VS NPX
 
@@ -341,14 +339,24 @@ Example :
 	Call with: npm run serve
 
 
-(stakeoverflow)[https://stackoverflow.com/questions/50605219/difference-between-npx-and-npm]
+[stakeoverflow](https://stackoverflow.com/questions/50605219/difference-between-npx-and-npm)
 
 ## Alternative NPM
 
-- (Yarn)[https://yarnpkg.com/] is a package manager for your code. It allows you to use and share code with other developers from around the world. Yarn does this quickly, securely, and reliably so you don’t ever have to worry. 
+- [Yarn](https://yarnpkg.com/) is a package manager for your code. It allows you to use and share code with other developers from around the world. Yarn does this quickly, securely, and reliably so you don’t ever have to worry. 
 
 
 
 ## Conclusion
 
 This is overview about npm from feitan thank you for reading, see you soon:)
+
+
+[nvm]: https://github.com/creationix/nvm
+[isnumber]: https://www.npmjs.com/package/isnumber
+[react]: https://www.npmjs.com/package/react
+[expjs]: https://expressjs.com/
+[mocha]: https://mochajs.org/
+[npmjs]: https://www.npmjs.com/
+[etsy]: https://etsy.com
+
