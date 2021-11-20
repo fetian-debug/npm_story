@@ -351,6 +351,8 @@ Example :
 
 This is overview about npm from feitan thank you for reading, see you soon:)
 
+written by [Fetian Ans](https://fetian-ans.firebaseapp.com/)
+
 
 [nvm]: https://github.com/creationix/nvm
 [isnumber]: https://www.npmjs.com/package/isnumber
@@ -359,4 +361,6 @@ This is overview about npm from feitan thank you for reading, see you soon:)
 [mocha]: https://mochajs.org/
 [npmjs]: https://www.npmjs.com/
 [etsy]: https://etsy.com
+
+
 
